@@ -14,3 +14,4 @@ function skillMember() {
         document.getElementById("member").style.borderColor = "#ffffff";
     }
 }
+
